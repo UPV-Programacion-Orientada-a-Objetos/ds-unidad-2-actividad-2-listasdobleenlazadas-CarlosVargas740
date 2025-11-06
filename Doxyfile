@@ -1,0 +1,23 @@
+# Configuración básica de Doxygen para el proyecto
+
+PROJECT_NAME           = "Decodificador PRT-7"
+PROJECT_NUMBER         = 1.0
+PROJECT_BRIEF          = "Sistema de decodificación de protocolo industrial PRT-7"
+
+OUTPUT_DIRECTORY       = docs
+CREATE_SUBDIRS         = NO
+
+INPUT                  = include src README.md
+RECURSIVE              = YES
+FILE_PATTERNS          = *.h *.cpp *.md
+
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+
+GENERATE_HTML          = YES
+HTML_OUTPUT            = html
+
+GENERATE_LATEX         = NO
+
+HAVE_DOT               = NO

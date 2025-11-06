@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/decodificador.dir/link.d CMakeFiles/decodificador.dir/src/main.cpp.o CMakeFiles/decodificador.dir/src/TramaLoad.cpp.o CMakeFiles/decodificador.dir/src/TramaMap.cpp.o CMakeFiles/decodificador.dir/src/RotorDeMapeo.cpp.o CMakeFiles/decodificador.dir/src/ListaDeCarga.cpp.o -o decodificador

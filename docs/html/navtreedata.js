@@ -1,0 +1,83 @@
+/*
+ @licstart  The following is the entire license notice for the JavaScript code in this file.
+
+ The MIT License (MIT)
+
+ Copyright (C) 1997-2020 by Dimitri van Heesch
+
+ Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+ and associated documentation files (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge, publish, distribute,
+ sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+
+ The above copyright notice and this permission notice shall be included in all copies or
+ substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+ BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+ @licend  The above is the entire license notice for the JavaScript code in this file
+*/
+var NAVTREE =
+[
+  [ "Decodificador PRT-7", "index.html", [
+    [ "Reporte - Decodificador de Protocolo PRT-7", "md_README.html", [
+      [ "1. Introducción", "md_README.html#autotoc_md2", [
+        [ "¿Qué es el Proyecto?", "md_README.html#autotoc_md3", null ],
+        [ "¿Cómo Funciona?", "md_README.html#autotoc_md4", null ],
+        [ "¿Qué Hace el Programa?", "md_README.html#autotoc_md5", null ],
+        [ "Ejemplo Sencillo", "md_README.html#autotoc_md6", null ]
+      ] ],
+      [ "2. Manual Técnico", "md_README.html#autotoc_md8", [
+        [ "2.1 Diseño del Sistema", "md_README.html#autotoc_md9", [
+          [ "Clases Principales", "md_README.html#autotoc_md10", null ]
+        ] ],
+        [ "2.2 Cómo Funciona Internamente", "md_README.html#autotoc_md11", null ],
+        [ "2.3 El Rotor de Mapeo Explicado", "md_README.html#autotoc_md12", null ],
+        [ "2.4 Estructura de Archivos", "md_README.html#autotoc_md13", null ],
+        [ "2.5 Componentes del Sistema", "md_README.html#autotoc_md15", null ]
+      ] ],
+      [ "3. Capturas de Pantalla", "md_README.html#autotoc_md17", [
+        [ "3.1 Compilación del Proyecto", "md_README.html#autotoc_md18", null ],
+        [ "3.2 Ejecución del Programa", "md_README.html#autotoc_md21", null ],
+        [ "3.3 Código del Arduino", "md_README.html#autotoc_md22", null ],
+        [ "3.4 Documentación Doxygen", "md_README.html#autotoc_md24", null ]
+      ] ],
+      [ "4. Conclusiones", "md_README.html#autotoc_md27", [
+        [ "Lo que se Logró", "md_README.html#autotoc_md28", null ],
+        [ "Lo que se Aprendió", "md_README.html#autotoc_md29", null ],
+        [ "Resultado Final", "md_README.html#autotoc_md30", null ]
+      ] ]
+    ] ],
+    [ "Classes", "annotated.html", [
+      [ "Class List", "annotated.html", "annotated_dup" ],
+      [ "Class Index", "classes.html", null ],
+      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
+      [ "Class Members", "functions.html", [
+        [ "All", "functions.html", null ],
+        [ "Functions", "functions_func.html", null ],
+        [ "Variables", "functions_vars.html", null ]
+      ] ]
+    ] ],
+    [ "Files", "files.html", [
+      [ "File List", "files.html", "files_dup" ],
+      [ "File Members", "globals.html", [
+        [ "All", "globals.html", null ],
+        [ "Functions", "globals_func.html", null ]
+      ] ]
+    ] ]
+  ] ]
+];
+
+var NAVTREEINDEX =
+[
+"ListaDeCarga_8cpp.html"
+];
+
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';
+var LISTOFALLMEMBERS = 'List of all members';

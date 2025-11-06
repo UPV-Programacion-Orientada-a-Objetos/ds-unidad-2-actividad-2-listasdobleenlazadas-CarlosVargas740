@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['imprimirmensaje_0',['imprimirMensaje',['../classListaDeCarga.html#a90f5187002875f9a4bc856db5d86ff35',1,'ListaDeCarga']]],
+  ['insertaralfinal_1',['insertarAlFinal',['../classListaDeCarga.html#a6c659099ea4a85ff3a8ae2de024dfdc0',1,'ListaDeCarga']]],
+  ['internamente_2',['2.2 Cómo Funciona Internamente',['../md_README.html#autotoc_md11',1,'']]],
+  ['introducción_3',['1. Introducción',['../md_README.html#autotoc_md2',1,'']]]
+];
